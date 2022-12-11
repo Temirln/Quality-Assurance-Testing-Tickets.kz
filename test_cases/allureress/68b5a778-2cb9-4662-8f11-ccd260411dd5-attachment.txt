@@ -1,0 +1,2 @@
+[32mINFO    [0m MainPage:main_page.py:59 Entered email
+[32mINFO    [0m MainPage:main_page.py:61 Entered password

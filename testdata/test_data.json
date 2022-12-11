@@ -1,0 +1,10 @@
+{
+    "test1":{
+        "from_city":"Astana",
+        "to_city":"Almaty"
+    },
+    "test2":{
+        "from_city":"Almaty",
+        "to_city":"Astana"
+    }
+}

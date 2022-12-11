@@ -1,0 +1,51 @@
+2022-12-09 11:28:29,526 - INFO - MainPage : Entered email
+2022-12-09 11:28:29,683 - INFO - MainPage : Entered password
+2022-12-09 11:33:02,041 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 11:33:23,856 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 11:34:01,662 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:03:10,382 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:03:29,237 - INFO - TestFlightUnit : Test Failed
+2022-12-09 12:03:32,845 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:03:50,847 - INFO - TestFlightUnit : Test Failed
+2022-12-09 12:04:10,423 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:04:28,625 - INFO - TestFlightUnit : Test Failed
+2022-12-09 12:05:54,226 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:06:29,396 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:10:47,157 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:12:59,333 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:14:07,987 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:14:11,943 - INFO - MainPage : Entered from City
+2022-12-09 12:16:29,314 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 12:16:32,545 - INFO - MainPage : Entered from City
+2022-12-09 12:16:32,742 - INFO - MainPage : Entered To City
+2022-12-09 15:47:28,484 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-09 15:47:38,586 - INFO - MainPage : Entered from City
+2022-12-09 15:47:38,916 - INFO - MainPage : Entered To City
+2022-12-10 13:22:31,631 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 13:22:39,751 - INFO - MainPage : Entered from City
+2022-12-10 13:22:40,151 - INFO - MainPage : Entered To City
+2022-12-10 13:23:07,822 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 13:23:16,344 - INFO - MainPage : Entered from City
+2022-12-10 13:23:16,753 - INFO - MainPage : Entered To City
+2022-12-10 13:23:43,830 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 13:23:52,585 - INFO - MainPage : Entered from City
+2022-12-10 13:23:53,047 - INFO - MainPage : Entered To City
+2022-12-10 14:24:42,914 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 14:24:50,290 - INFO - MainPage : Entered from City
+2022-12-10 14:24:50,730 - INFO - MainPage : Entered To City
+2022-12-10 14:25:17,537 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 14:25:26,361 - INFO - MainPage : Entered from City
+2022-12-10 14:25:26,987 - INFO - MainPage : Entered To City
+2022-12-10 14:25:54,299 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 14:27:58,864 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-10 14:28:07,146 - INFO - MainPage : Entered from City
+2022-12-10 14:28:07,678 - INFO - MainPage : Entered To City
+2022-12-11 20:36:58,938 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-11 20:37:06,692 - INFO - MainPage : Entered from City
+2022-12-11 20:37:07,052 - INFO - MainPage : Entered To City
+2022-12-11 20:37:23,729 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-11 20:37:29,714 - INFO - MainPage : Entered from City
+2022-12-11 20:37:30,047 - INFO - MainPage : Entered To City
+2022-12-11 20:37:47,091 - INFO - TestFlightUnit : <------------Test Order Ticket Started----------------->
+2022-12-11 20:37:53,611 - INFO - MainPage : Entered from City
+2022-12-11 20:37:53,914 - INFO - MainPage : Entered To City
